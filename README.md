@@ -6,7 +6,7 @@
 
 # Assignment 1 - POS Tagging
 
-<img align="right"  src="https://i.imgur.com/NyY6V2c.png" alt="confusion_matrix" length = 300 width = 300>
+<img align="right"  src="https://i.imgur.com/NyY6V2c.png" alt="confusion_matrix" length = 200 width = 200>
 
 ### About the project
 In this work, after analyzing and preparing the given corpus, we developed a series of neural architectures according to the assignment specification. After that, we selected the two best models based on the validation F1 score and evaluated them on the test set.
